@@ -44,11 +44,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kokopangeran_"
+global.urlnya = "https://www.instagram.com/callme_rey1003_"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+6285929970260'
+global.phn = '+13049948857'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -63,11 +63,11 @@ global.author = data.owner;
 
 //=========== Design ==========//
 global.linkgc = "https://chat.whatsapp.com/JOTpyCQIWcC6wr17Ki7L0n",
-global.linkig = "https://www.instagram.com/kokopangeran_",
+global.linkig = "https://www.instagram.com/callme_rey1003_",
 global.linkgh = "https://github.com/MendingTuru",
 global.deslink = " ",
 global.titlink = "Folllow me on Instagram",
-global.bodlink = "@kokopangeran_",
+global.bodlink = "@callme_rey1003_",
 global.sa = "╭─",
 global.gx = "│✇",
 global.gy = "│•",
@@ -77,24 +77,24 @@ global.kki = "「",
 global.kka = "」",
 global.petik = "```",
 global.images = "https://telegra.ph/file/be35f3f279c9af2d607e8.jpg",
-global.wmnya = "ву ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ",
+global.wmnya = "ву ᵈʳᴋᴏᴋᴏ ®ey",
 global.clg1 = "Ciss 📸",
-global.clg2 = "ʙy ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×"
+global.clg2 = "ʙy ᵈʳᴋᴏᴋᴏ ®ey×፝֟͜×"
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᵈʳᴩᴀɴɢᴇʀᴀɴ-ᴍᴅ'
+        global.colong2 = 'ʙy ᵈʳKoKo•Rey-ᴍᴅ'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
 /*============== PAYMENT ==============*/
 global.saweria = "https://saweria.co/kokopangeran"// website saweria.co
-global.dana = ["087832147584"]
-global.pulsa = ["087832147584"] //pulsa here
+global.dana = ["085232604817"]
+global.pulsa = ["085232604817"] //pulsa here
 global.trakteer = "https://trakteer.id/kokopangeran"//Link url https://
 global.paypal = "pangeran.dwnta01@gmail.com" //paypal email
 global.gopay = "087832147584"//Numver for Payment digital Gopay Gojek
-global.instagram = "https://instagram.com/kokopangeran_
+global.instagram = "https://instagram.com/callme_rey1003_
 
 /*============== PAYMENT ==============*/
 global.pdana = '087832147584'
